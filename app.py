@@ -10,6 +10,7 @@ scaler = bundle["scaler"]
 encoder_gender = bundle["encoder_gender"]
 encoder_target = bundle["encoder_target"]
 
+st.title("Project2_Group11")
 st.title("🧠 Obesity Category Prediction")
 st.write("Enter your health information to predict obesity category")
 
